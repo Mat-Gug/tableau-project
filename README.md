@@ -1,4 +1,4 @@
-# Tableau: Sales Analysis of a supermarket chain
+# Tableau: Sales Analysis of a supermarket chain :shopping_cart: :chart_with_upwards_trend: :bar_chart:
 
 Hello everyone, thank you for being here! 😊
 
