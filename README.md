@@ -16,6 +16,6 @@ Naturally, the expectation is to use the dashboard dynamically, filtering throug
 In addition, Superstore wants to know how to allocate the marketing campaign budget effectively, so they request an analysis to decide where to invest. For this reason, the second request is to build a Tableau Story starting from a series of dashboards, visualizations, or a combination of both, allowing insights into:
 - Which products to allocate more budget to,
 - Which products to allocate less budget to,
-- Which product(s) you recommend removing from the catalog.
+- Which product(s) are recommended to be removed from the catalog.
 
 Both parts of the project are available on my [Tableau Public profile](https://public.tableau.com/app/profile/mattia.guglielmelli/vizzes), where they can also be downloaded. Enjoy! :grinning:
